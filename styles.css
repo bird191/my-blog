@@ -1,0 +1,15 @@
+body{
+  width: 500px; 
+  margin: 0 auto;
+  font-family:"Roboto", sans-serif ;
+}
+.title{
+  border: 3px solid gray;
+}
+#Super_Smash_Bros img, 
+#Kingdom_Hearts img,
+#Fallout img
+{
+  max-width: 100%;
+  height: auto;
+}
